@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-Fushion tech internship
+Fusion tech internship
